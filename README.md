@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sahilsethi2/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahilsethi2/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sahilsethi2/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sahilsethi2/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sahilsethi2/LeetCode/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sahilsethi2/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sahilsethi2/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
