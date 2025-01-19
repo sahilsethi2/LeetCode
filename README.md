@@ -86,4 +86,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3634-find-mirror-score-of-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
+## Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
