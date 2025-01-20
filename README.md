@@ -90,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -105,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
