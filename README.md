@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sahilsethi2/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sahilsethi2/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sahilsethi2/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sahilsethi2/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sahilsethi2/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sahilsethi2/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sahilsethi2/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sahilsethi2/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3634-find-mirror-score-of-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
