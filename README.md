@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sahilsethi2/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/sahilsethi2/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3634-find-mirror-score-of-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Union Find
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sahilsethi2/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/sahilsethi2/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sahilsethi2/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sahilsethi2/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilsethi2/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sahilsethi2/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3634-find-mirror-score-of-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
