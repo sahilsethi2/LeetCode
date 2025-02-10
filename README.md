@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sahilsethi2/LeetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sahilsethi2/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/sahilsethi2/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sahilsethi2/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sahilsethi2/LeetCode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/sahilsethi2/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sahilsethi2/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0213-house-robber-ii) |
 ## Memoization
