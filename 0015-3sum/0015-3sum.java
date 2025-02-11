@@ -13,7 +13,7 @@ class Solution {
 
                 if(hashset.contains(third)){
                     List<Integer> list = Arrays.asList(nums[i],nums[j],third);
-                    list.sort(null);
+                    Collections.sort(list);
                     set.add(list);
                 }
                 hashset.add(nums[j]);
