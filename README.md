@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahilsethi2/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sahilsethi2/LeetCode/tree/master/0046-permutations) |
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahilsethi2/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sahilsethi2/LeetCode/tree/master/0075-sort-colors) |
 | [2232-adding-spaces-to-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahilsethi2/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sahilsethi2/LeetCode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
