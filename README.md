@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sahilsethi2/LeetCode/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/sahilsethi2/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sahilsethi2/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sahilsethi2/LeetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0090-subsets-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sahilsethi2/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahilsethi2/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/sahilsethi2/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sahilsethi2/LeetCode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
