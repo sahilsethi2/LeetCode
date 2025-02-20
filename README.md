@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sahilsethi2/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahilsethi2/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sahilsethi2/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/sahilsethi2/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahilsethi2/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sahilsethi2/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1582-design-browser-history](https://github.com/sahilsethi2/LeetCode/tree/master/1582-design-browser-history) |
 ## Design
 |  |
