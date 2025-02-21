@@ -13,13 +13,11 @@ class Solution {
         if(arr==null || arr.isEmpty()){
             return null;
         }
-        
         ListNode head = new ListNode(arr.get(0));
-        ListNode current = head;
-        
+        ListNode temp = head;
         for (int i = 1; i < arr.size(); i++){
-            current.next = new ListNode(arr.get(i));
-            current = current.next;
+            temp.next = new ListNode(arr.get(i));
+            temp = temp.next;
         }
         return head;
     }
