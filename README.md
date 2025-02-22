@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sahilsethi2/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahilsethi2/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahilsethi2/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/sahilsethi2/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sahilsethi2/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sahilsethi2/LeetCode/tree/master/0148-sort-list) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahilsethi2/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sahilsethi2/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/sahilsethi2/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/sahilsethi2/LeetCode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/sahilsethi2/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/sahilsethi2/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/sahilsethi2/LeetCode/tree/master/0206-reverse-linked-list) |
