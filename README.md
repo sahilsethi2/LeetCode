@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sahilsethi2/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sahilsethi2/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/sahilsethi2/LeetCode/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sahilsethi2/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/sahilsethi2/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sahilsethi2/LeetCode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/sahilsethi2/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/sahilsethi2/LeetCode/tree/master/0502-ipo) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sahilsethi2/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sahilsethi2/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sahilsethi2/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/sahilsethi2/LeetCode/tree/master/0502-ipo) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sahilsethi2/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/sahilsethi2/LeetCode/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
