@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/sahilsethi2/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sahilsethi2/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/sahilsethi2/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sahilsethi2/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sahilsethi2/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0213-house-robber-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sahilsethi2/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sahilsethi2/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sahilsethi2/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sahilsethi2/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/sahilsethi2/LeetCode/tree/master/0502-ipo) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/sahilsethi2/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sahilsethi2/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahilsethi2/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/sahilsethi2/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sahilsethi2/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sahilsethi2/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sahilsethi2/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilsethi2/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sahilsethi2/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sahilsethi2/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sahilsethi2/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/0493-reverse-pairs) |
 ## Merge Sort
