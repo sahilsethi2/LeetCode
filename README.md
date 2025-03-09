@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sahilsethi2/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sahilsethi2/LeetCode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sahilsethi2/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3483-alternating-groups-ii](https://github.com/sahilsethi2/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/sahilsethi2/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sahilsethi2/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3483-alternating-groups-ii](https://github.com/sahilsethi2/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
