@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sahilsethi2/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sahilsethi2/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sahilsethi2/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/sahilsethi2/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilsethi2/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sahilsethi2/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/sahilsethi2/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sahilsethi2/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sahilsethi2/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sahilsethi2/LeetCode/tree/master/1036-rotting-oranges) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilsethi2/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sahilsethi2/LeetCode/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/sahilsethi2/LeetCode/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1044-find-common-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1044-find-common-characters) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sahilsethi2/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilsethi2/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0110-balanced-binary-tree) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sahilsethi2/LeetCode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/sahilsethi2/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
