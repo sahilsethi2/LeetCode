@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilsethi2/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sahilsethi2/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/sahilsethi2/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/sahilsethi2/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1044-find-common-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1044-find-common-characters) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sahilsethi2/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/sahilsethi2/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/sahilsethi2/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1022-unique-paths-iii](https://github.com/sahilsethi2/LeetCode/tree/master/1022-unique-paths-iii) |
 ## Bit Manipulation
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sahilsethi2/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilsethi2/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/sahilsethi2/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/sahilsethi2/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sahilsethi2/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0213-house-robber-ii) |
