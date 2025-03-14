@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sahilsethi2/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/sahilsethi2/LeetCode/tree/master/0561-array-partition) |
 | [0733-flood-fill](https://github.com/sahilsethi2/LeetCode/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/sahilsethi2/LeetCode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/sahilsethi2/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sahilsethi2/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1022-unique-paths-iii](https://github.com/sahilsethi2/LeetCode/tree/master/1022-unique-paths-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/sahilsethi2/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/sahilsethi2/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sahilsethi2/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sahilsethi2/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
