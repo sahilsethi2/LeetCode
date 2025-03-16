@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/sahilsethi2/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sahilsethi2/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2665-minimum-time-to-repair-cars](https://github.com/sahilsethi2/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sahilsethi2/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sahilsethi2/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3311-ant-on-the-boundary](https://github.com/sahilsethi2/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sahilsethi2/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahilsethi2/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sahilsethi2/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2665-minimum-time-to-repair-cars](https://github.com/sahilsethi2/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Two Pointers
 |  |
 | ------- |
