@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahilsethi2/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilsethi2/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilsethi2/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/sahilsethi2/LeetCode/tree/master/0155-min-stack) |
 | [1582-design-browser-history](https://github.com/sahilsethi2/LeetCode/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/sahilsethi2/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilsethi2/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sahilsethi2/LeetCode/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1582-design-browser-history](https://github.com/sahilsethi2/LeetCode/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
