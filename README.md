@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sahilsethi2/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/sahilsethi2/LeetCode/tree/master/0561-array-partition) |
 | [0733-flood-fill](https://github.com/sahilsethi2/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/sahilsethi2/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sahilsethi2/LeetCode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/sahilsethi2/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/sahilsethi2/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilsethi2/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilsethi2/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/sahilsethi2/LeetCode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/sahilsethi2/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sahilsethi2/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/sahilsethi2/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sahilsethi2/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/sahilsethi2/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sahilsethi2/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/sahilsethi2/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
