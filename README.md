@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilsethi2/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilsethi2/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/sahilsethi2/LeetCode/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/sahilsethi2/LeetCode/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/sahilsethi2/LeetCode/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/sahilsethi2/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilsethi2/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/sahilsethi2/LeetCode/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0937-online-stock-span](https://github.com/sahilsethi2/LeetCode/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/sahilsethi2/LeetCode/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/sahilsethi2/LeetCode/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/sahilsethi2/LeetCode/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
@@ -498,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sahilsethi2/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/sahilsethi2/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
