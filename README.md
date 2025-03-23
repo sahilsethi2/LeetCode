@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sahilsethi2/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sahilsethi2/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sahilsethi2/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/sahilsethi2/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sahilsethi2/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sahilsethi2/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sahilsethi2/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/sahilsethi2/LeetCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/sahilsethi2/LeetCode/tree/master/0204-count-primes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sahilsethi2/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/sahilsethi2/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sahilsethi2/LeetCode/tree/master/0204-count-primes) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sahilsethi2/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 ## Monotonic Stack
 |  |
@@ -520,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/sahilsethi2/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/sahilsethi2/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/sahilsethi2/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sahilsethi2/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
