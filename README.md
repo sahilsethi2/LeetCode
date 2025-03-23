@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/sahilsethi2/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/sahilsethi2/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/sahilsethi2/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1019-squares-of-a-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/sahilsethi2/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/sahilsethi2/LeetCode/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1044-find-common-characters) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sahilsethi2/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilsethi2/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/sahilsethi2/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sahilsethi2/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2232-adding-spaces-to-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sahilsethi2/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/sahilsethi2/LeetCode/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/sahilsethi2/LeetCode/tree/master/0561-array-partition) |
+| [1019-squares-of-a-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/sahilsethi2/LeetCode/tree/master/1137-height-checker) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sahilsethi2/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sahilsethi2/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
