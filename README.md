@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sahilsethi2/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sahilsethi2/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/sahilsethi2/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sahilsethi2/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sahilsethi2/LeetCode/tree/master/0075-sort-colors) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahilsethi2/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sahilsethi2/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sahilsethi2/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/sahilsethi2/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sahilsethi2/LeetCode/tree/master/0131-palindrome-partitioning) |
