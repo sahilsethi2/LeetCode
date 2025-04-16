@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sahilsethi2/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/sahilsethi2/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/sahilsethi2/LeetCode/tree/master/0204-count-primes) |
+| [0343-integer-break](https://github.com/sahilsethi2/LeetCode/tree/master/0343-integer-break) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sahilsethi2/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sahilsethi2/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sahilsethi2/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sahilsethi2/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0213-house-robber-ii) |
+| [0343-integer-break](https://github.com/sahilsethi2/LeetCode/tree/master/0343-integer-break) |
 | [0943-sum-of-subarray-minimums](https://github.com/sahilsethi2/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1418-fair-distribution-of-cookies](https://github.com/sahilsethi2/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 ## Memoization
