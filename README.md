@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sahilsethi2/LeetCode/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/sahilsethi2/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/sahilsethi2/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sahilsethi2/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/sahilsethi2/LeetCode/tree/master/1137-height-checker) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sahilsethi2/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0502-ipo](https://github.com/sahilsethi2/LeetCode/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/sahilsethi2/LeetCode/tree/master/0561-array-partition) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/sahilsethi2/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2089-maximum-matrix-sum](https://github.com/sahilsethi2/LeetCode/tree/master/2089-maximum-matrix-sum) |
 ## Binary Indexed Tree
 |  |
