@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sahilsethi2/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sahilsethi2/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/sahilsethi2/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/sahilsethi2/LeetCode/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sahilsethi2/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0213-house-robber-ii) |
 | [0343-integer-break](https://github.com/sahilsethi2/LeetCode/tree/master/0343-integer-break) |
+| [0416-partition-equal-subset-sum](https://github.com/sahilsethi2/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/sahilsethi2/LeetCode/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/sahilsethi2/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1418-fair-distribution-of-cookies](https://github.com/sahilsethi2/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
