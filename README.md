@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1044-find-common-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sahilsethi2/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahilsethi2/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sahilsethi2/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sahilsethi2/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilsethi2/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sahilsethi2/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sahilsethi2/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahilsethi2/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2232-adding-spaces-to-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3379-score-of-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/3379-score-of-a-string) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sahilsethi2/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sahilsethi2/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahilsethi2/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Linked List
 |  |
