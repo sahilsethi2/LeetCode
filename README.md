@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/sahilsethi2/LeetCode/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/sahilsethi2/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sahilsethi2/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/sahilsethi2/LeetCode/tree/master/0561-array-partition) |
 | [0733-flood-fill](https://github.com/sahilsethi2/LeetCode/tree/master/0733-flood-fill) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sahilsethi2/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sahilsethi2/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sahilsethi2/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/sahilsethi2/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sahilsethi2/LeetCode/tree/master/0733-flood-fill) |
 | [1022-unique-paths-iii](https://github.com/sahilsethi2/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/sahilsethi2/LeetCode/tree/master/1036-rotting-oranges) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sahilsethi2/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sahilsethi2/LeetCode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/sahilsethi2/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sahilsethi2/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/sahilsethi2/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahilsethi2/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0213-house-robber-ii) |
 | [0343-integer-break](https://github.com/sahilsethi2/LeetCode/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/sahilsethi2/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/sahilsethi2/LeetCode/tree/master/0542-01-matrix) |
 | [0868-push-dominoes](https://github.com/sahilsethi2/LeetCode/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/sahilsethi2/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/sahilsethi2/LeetCode/tree/master/1250-longest-common-subsequence) |
