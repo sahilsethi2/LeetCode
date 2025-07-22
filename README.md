@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahilsethi2/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1720-crawler-log-folder](https://github.com/sahilsethi2/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sahilsethi2/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1813-maximum-erasure-value](https://github.com/sahilsethi2/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sahilsethi2/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sahilsethi2/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2058-concatenation-of-array](https://github.com/sahilsethi2/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1044-find-common-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sahilsethi2/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/sahilsethi2/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahilsethi2/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sahilsethi2/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/sahilsethi2/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sahilsethi2/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/sahilsethi2/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [3483-alternating-groups-ii](https://github.com/sahilsethi2/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Heap (Priority Queue)
 |  |
