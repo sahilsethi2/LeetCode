@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sahilsethi2/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/sahilsethi2/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/sahilsethi2/LeetCode/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/sahilsethi2/LeetCode/tree/master/0263-ugly-number) |
 | [0343-integer-break](https://github.com/sahilsethi2/LeetCode/tree/master/0343-integer-break) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sahilsethi2/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sahilsethi2/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
