@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sahilsethi2/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahilsethi2/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sahilsethi2/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0289-game-of-life](https://github.com/sahilsethi2/LeetCode/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/sahilsethi2/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/sahilsethi2/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/0493-reverse-pairs) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sahilsethi2/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/sahilsethi2/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sahilsethi2/LeetCode/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/sahilsethi2/LeetCode/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/sahilsethi2/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sahilsethi2/LeetCode/tree/master/0733-flood-fill) |
 | [1022-unique-paths-iii](https://github.com/sahilsethi2/LeetCode/tree/master/1022-unique-paths-iii) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/sahilsethi2/LeetCode/tree/master/0289-game-of-life) |
 | [2058-concatenation-of-array](https://github.com/sahilsethi2/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sahilsethi2/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
