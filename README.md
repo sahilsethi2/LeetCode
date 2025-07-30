@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahilsethi2/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1720-crawler-log-folder](https://github.com/sahilsethi2/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sahilsethi2/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/sahilsethi2/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/sahilsethi2/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sahilsethi2/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/sahilsethi2/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/sahilsethi2/LeetCode/tree/master/1137-height-checker) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sahilsethi2/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/sahilsethi2/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/sahilsethi2/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sahilsethi2/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1044-find-common-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sahilsethi2/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/sahilsethi2/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahilsethi2/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
