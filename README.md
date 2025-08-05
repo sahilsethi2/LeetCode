@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/sahilsethi2/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sahilsethi2/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2594-count-pairs-of-similar-strings](https://github.com/sahilsethi2/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sahilsethi2/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2679-count-distinct-numbers-on-board](https://github.com/sahilsethi2/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sahilsethi2/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/sahilsethi2/LeetCode/tree/master/2455-node-with-highest-edge-score) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sahilsethi2/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2594-count-pairs-of-similar-strings](https://github.com/sahilsethi2/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2679-count-distinct-numbers-on-board](https://github.com/sahilsethi2/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sahilsethi2/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sahilsethi2/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahilsethi2/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2232-adding-spaces-to-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2594-count-pairs-of-similar-strings](https://github.com/sahilsethi2/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2886-faulty-keyboard](https://github.com/sahilsethi2/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3379-score-of-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/sahilsethi2/LeetCode/tree/master/3447-clear-digits) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/sahilsethi2/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/sahilsethi2/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sahilsethi2/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [2594-count-pairs-of-similar-strings](https://github.com/sahilsethi2/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sahilsethi2/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahilsethi2/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2594-count-pairs-of-similar-strings](https://github.com/sahilsethi2/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 ## Linked List
 |  |
 | ------- |
