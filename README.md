@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahilsethi2/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sahilsethi2/LeetCode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/sahilsethi2/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sahilsethi2/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/sahilsethi2/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sahilsethi2/LeetCode/tree/master/0263-ugly-number) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sahilsethi2/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sahilsethi2/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilsethi2/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sahilsethi2/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -675,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sahilsethi2/LeetCode/tree/master/0164-maximum-gap) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sahilsethi2/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
