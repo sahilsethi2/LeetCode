@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sahilsethi2/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2594-count-pairs-of-similar-strings](https://github.com/sahilsethi2/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/sahilsethi2/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sahilsethi2/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2679-count-distinct-numbers-on-board](https://github.com/sahilsethi2/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sahilsethi2/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sahilsethi2/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sahilsethi2/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sahilsethi2/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/sahilsethi2/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sahilsethi2/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3790-fruits-into-baskets-ii](https://github.com/sahilsethi2/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sahilsethi2/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sahilsethi2/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sahilsethi2/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/sahilsethi2/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Sliding Window
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sahilsethi2/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/sahilsethi2/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/sahilsethi2/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3483-alternating-groups-ii](https://github.com/sahilsethi2/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/sahilsethi2/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sahilsethi2/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sahilsethi2/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/sahilsethi2/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3311-ant-on-the-boundary](https://github.com/sahilsethi2/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Stack
 |  |
@@ -617,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/sahilsethi2/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2089-maximum-matrix-sum](https://github.com/sahilsethi2/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sahilsethi2/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/sahilsethi2/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sahilsethi2/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Binary Indexed Tree
 |  |
