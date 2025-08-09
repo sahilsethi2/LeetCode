@@ -1,11 +1,15 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Arrays.sort(nums);
-        for(int i=1; i<nums.length; i++){
-            if(nums[i] == nums[i-1]){
-                return true;
+        Map<Integer,Integer> mp = new HashMap<>();
+        for(int i : nums){
+            mp.put(i, mp.getOrDefault(i,0)+1);
+        }
+        boolean ans = false;
+        for(Map.Entry<Integer,Integer> e : mp.entrySet()){
+            if(e.getValue() >= 2){
+                ans = true;
             }
         }
-        return false;
+        return ans;
     }
 }
