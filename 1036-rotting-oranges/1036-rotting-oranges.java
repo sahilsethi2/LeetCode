@@ -1,54 +1,56 @@
-class Pair{
+class Three{
     int row;
     int col;
-    int tm;
-    Pair(int _row,int _col, int _tm){
-        this.row = _row;
-        this.col = _col;
-        this.tm = _tm;
+    int time;
+    public Three(int row, int col, int time){
+        this.row = row;
+        this.col = col;
+        this.time = time;
     }
 }
 class Solution {
     public int orangesRotting(int[][] grid) {
+        Queue<Three> q = new LinkedList<>();
         int m = grid.length;
         int n = grid[0].length;
-        boolean[][] vis = new boolean[m][n];
-        Queue<Pair> q = new LinkedList<>();
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(grid[i][j]==2){
-                    q.add(new Pair(i,j,0));
-                    vis[i][j] = true;
+        int[][] vis = new int[m][n];
+        int cntf = 0;
+        for(int i = 0 ; i < m ; i++){
+            for(int j = 0; j < n; j++){
+                if(grid[i][j] == 2){
+                    q.add(new Three(i,j,0));
+                    vis[i][j] = 2;
+                }else{
+                    vis[i][j]=0;
                 }
+
+                if(grid[i][j] == 1) cntf++;
             }
         }
+
         int[] delrow = {-1,0,+1,0};
         int[] delcol = {0,+1,0,-1};
-        int time=0;
+        int t = 0;
+        int cnt = 0;
         while(!q.isEmpty()){
             int r = q.peek().row;
             int c = q.peek().col;
-            int t = q.peek().tm;
+            int tm = q.peek().time;
             q.poll();
-            time=Math.max(time, t);
-            for(int i=0; i<4;i++){
-                int nrow = r+delrow[i];
-                int ncol = c+delcol[i];
-                if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && grid[nrow][ncol]!=2 && grid[nrow][ncol]==1){
-                    q.add(new Pair(nrow,ncol,t+1));
-                    vis[nrow][ncol]=true;
-                    grid[nrow][ncol]=2;
+            
+            for(int i = 0; i < 4; i++){
+                int nrow =  r + delrow[i];
+                int ncol = c + delcol[i];
+                t = Math.max(t, tm);
+                if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && grid[nrow][ncol] == 1 && vis[nrow][ncol] != 2){
+                    vis[nrow][ncol] = 2;
+                    q.add(new Three(nrow,ncol,tm+1));
+                    cnt++;
                 }
             }
         }
 
-        for(int i=0; i<m; i++){
-            for(int j = 0 ; j < n ; j++){
-                if(grid[i][j]==1 && vis[i][j]==false){
-                    return -1;
-                }
-            }
-        }
-        return time;
+        if(cnt != cntf) return -1;
+        return t;
     }
 }
