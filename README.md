@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/sahilsethi2/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sahilsethi2/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sahilsethi2/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sahilsethi2/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2594-count-pairs-of-similar-strings](https://github.com/sahilsethi2/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/sahilsethi2/LeetCode/tree/master/0343-integer-break) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sahilsethi2/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sahilsethi2/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sahilsethi2/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2679-count-distinct-numbers-on-board](https://github.com/sahilsethi2/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sahilsethi2/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
