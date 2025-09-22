@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/sahilsethi2/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sahilsethi2/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sahilsethi2/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/sahilsethi2/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sahilsethi2/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sahilsethi2/LeetCode/tree/master/3429-special-array-i) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/sahilsethi2/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sahilsethi2/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sahilsethi2/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3634-find-mirror-score-of-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Union Find
 |  |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahilsethi2/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/sahilsethi2/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
