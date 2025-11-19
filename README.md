@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/sahilsethi2/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sahilsethi2/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sahilsethi2/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sahilsethi2/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sahilsethi2/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/sahilsethi2/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sahilsethi2/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sahilsethi2/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sahilsethi2/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sahilsethi2/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/sahilsethi2/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahilsethi2/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sahilsethi2/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/sahilsethi2/LeetCode/tree/master/2455-node-with-highest-edge-score) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/sahilsethi2/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/sahilsethi2/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sahilsethi2/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sahilsethi2/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2470-removing-stars-from-a-string](https://github.com/sahilsethi2/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2679-count-distinct-numbers-on-board](https://github.com/sahilsethi2/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2886-faulty-keyboard](https://github.com/sahilsethi2/LeetCode/tree/master/2886-faulty-keyboard) |
