@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/sahilsethi2/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1044-find-common-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sahilsethi2/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/sahilsethi2/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/sahilsethi2/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1454-remove-palindromic-subsequences](https://github.com/sahilsethi2/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sahilsethi2/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sahilsethi2/LeetCode/tree/master/0542-01-matrix) |
 | [0868-push-dominoes](https://github.com/sahilsethi2/LeetCode/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/sahilsethi2/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/sahilsethi2/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/sahilsethi2/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1418-fair-distribution-of-cookies](https://github.com/sahilsethi2/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sahilsethi2/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
