@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/sahilsethi2/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2058-concatenation-of-array](https://github.com/sahilsethi2/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/sahilsethi2/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sahilsethi2/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sahilsethi2/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sahilsethi2/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sahilsethi2/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/sahilsethi2/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/sahilsethi2/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sahilsethi2/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sahilsethi2/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sahilsethi2/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sahilsethi2/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/sahilsethi2/LeetCode/tree/master/0621-task-scheduler) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sahilsethi2/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sahilsethi2/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2448-count-number-of-bad-pairs](https://github.com/sahilsethi2/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/sahilsethi2/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sahilsethi2/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
