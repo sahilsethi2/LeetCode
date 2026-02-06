@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/sahilsethi2/LeetCode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sahilsethi2/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3483-alternating-groups-ii](https://github.com/sahilsethi2/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/sahilsethi2/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/sahilsethi2/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sahilsethi2/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sahilsethi2/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sahilsethi2/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3634-minimum-removals-to-balance-array](https://github.com/sahilsethi2/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/sahilsethi2/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sahilsethi2/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3483-alternating-groups-ii](https://github.com/sahilsethi2/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/sahilsethi2/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
